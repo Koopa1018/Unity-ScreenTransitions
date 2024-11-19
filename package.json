@@ -1,0 +1,21 @@
+{
+  "description": "Modular screen transition system, designed for wipes and irises but almost certainly capable of others (fades).",
+  "displayName": "CURGLAFF Screen Transitions",
+  "keywords": [
+    "general"
+  ],
+  "name": "com.clouds.screentransitions",
+  "readme": "",
+  "repoPackagePath": "C:/VersionControlled/Unity Packages/com.clouds.screentransitions",
+  "repository": {
+    "revision": "27",
+    "type": "svn",
+    "url": "svn://curglaff.dynu.net/Packages/com.clouds.screentransitions/trunk"
+  },
+  "version": "0.3.1",
+  "dependencies": {
+    "com.unity.mathematics": "1.0.0",
+    "com.unity.burst": "1.0.0"
+  },
+  "hideInEditor": false
+}
